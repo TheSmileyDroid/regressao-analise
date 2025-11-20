@@ -6,10 +6,10 @@
 *.dbc
 
 # Ignore generated plots
-*.png
-*.pdf
-*.jpg
-*.jpeg
+# *.png
+# *.pdf
+# *.jpg
+# *.jpeg
 
 # Ignore R environment files
 .Rhistory
