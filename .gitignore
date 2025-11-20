@@ -1,0 +1,26 @@
+# Ignore large datasets
+*.csv
+*.zip
+*.xlsx
+*.xls
+*.dbc
+
+# Ignore generated plots
+*.png
+*.pdf
+*.jpg
+*.jpeg
+
+# Ignore R environment files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Ignore local library folders
+R_libs/
+renv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
